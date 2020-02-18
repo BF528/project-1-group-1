@@ -8,9 +8,10 @@ Divya, Garima, Marlene, Xudong
 
 # Repository Contents
 
-1)ProgrammerCode.rmd-The R file contains code from the section 3 of the project.
-2)analyst_part.R-The R file contains code from the section 4 of the project.
-3)data4_2.csv- A comma separated file after the three filtered result.
-4)data5_4.csv- A comma separated file after Welch t test.
-5)data5_6.csv- A comma separated file after performing t-test on the expression matrix. 
-6)symbolic link.txt- The code to create symbolic link at a location.
+•	ProgrammerCode.rmd-The R file contains code from the section 3 of the project.
+•	analyst_part.R-The R file contains code from the section 4 of the project.
+•	data4_2.csv- A comma separated file after the three filtered result.
+•	data5_4.csv- A comma separated file after Welch t test.
+•	data5_6.csv- A comma separated file after performing t-test on the expression matrix. 
+•	symbolic link.txt- The code to create symbolic link at a location.
+
