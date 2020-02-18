@@ -1,6 +1,6 @@
 # Project Description
 
-This repository contains files related to the project "Microarray Based Tumor Classification (https://bf528.readthedocs.io/en/latest/content/projects/project_1_microarrays/project_1_microarrays.html)."
+This repository contains files related to the project "Microarray Based Tumor Classification."(https://bf528.readthedocs.io/en/latest/content/projects/project_1_microarrays/project_1_microarrays.html)
 
 # Contributors
 Divya, Garima, Marlene, Xudong
