@@ -7,6 +7,7 @@ Divya, Garima, Marlene, Xudong
 
 
 # Repository Contents
+Contents of the repository are given below:
 
 •	ProgrammerCode.rmd-The R file contains code from the section 3 of the project.
 
