@@ -17,6 +17,6 @@ Contents of the repository are given below:
 •	data4_2.csv- A comma separated file after the three filtered result.
 •	data5_4.csv- A comma separated file after Welch t test.
 •	data5_6.csv- A comma separated file after performing t-test on the expression matrix. 
-•	symbolic link.txt- The code to create symbolic link at a location.
+•	symbolic link.txt- The code to create symbolic link at a location. 
 
 
